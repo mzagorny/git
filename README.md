@@ -1,5 +1,3 @@
-Ссылки по Git
-
 Обзоры
 =
 - [Гит в картинках](https://rsdn.ru/article/tools/Git.xml) - хороший обзор гит на примере Git Extensions с нуля
@@ -12,7 +10,7 @@
 
 Объемные мануалы
 =
-- [Git Book Online](http://git-scm.com/book/) основная книга по гит
+- [Git Book Online](http://git-scm.com/book/) - главная книга по гит
 - [Git Extensions online manual](https://git-extensions-documentation.readthedocs.org/en/latest/?) - инструкции по работе в Git Extensions
 
 Tools
