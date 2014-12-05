@@ -16,7 +16,7 @@
 
 Полезные ссылки
 =
-- [gitignore templates](ttps://github.com/github/gitignore) - комплект полезных шаблонов гитигнор на все случаи жизни для C# смотрите шаблон VisualStudio.gitignore
+- [gitignore templates](https://github.com/github/gitignore) - комплект полезных шаблонов гитигнор на все случаи жизни для C# смотрите шаблон VisualStudio.gitignore
 
 Tools
 =
