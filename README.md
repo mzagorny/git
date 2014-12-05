@@ -5,14 +5,18 @@
 
 Информация по конкретным темам
 =
-- [Машина времени в git](http://habrahabr.ru/post/157175/) - обзор способов перемещения по дереву коммитов
+- [Машина времени в git](http://habrahabr.ru/post/157175/) - обзор способов перемещения по дереву коммитов. Подробный разбор команд checkout и reset
 - [Тонкости благополучного git-merge](http://habrahabr.ru/post/195674/) - разбор команды merge
 - [pruning stale remote-tracking branches](http://kparal.wordpress.com/2011/04/15/git-tip-of-the-day-pruning-stale-remote-tracking-branches) - удаление (delete) информации об удаленных (deleted) удаленных (remote) ветках
 
 Объемные мануалы
 =
 - [Git Book Online](http://git-scm.com/book/) - главная книга по гит
-- [Git Extensions online manual](https://git-extensions-documentation.readthedocs.org/en/latest/?) - инструкции по работе в Git Extensions
+- [Git Extensions online manual](https://git-extensions-documentation.readthedocs.org/en/latest/?) - инструкции в картинках по работе в Git Extensions
+
+Полезные ссылки
+=
+- [gitignore templates](ttps://github.com/github/gitignore) - комплект полезных шаблонов гитигнор на все случаи жизни для C# смотрите шаблон VisualStudio.gitignore
 
 Tools
 =
