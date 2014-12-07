@@ -1,6 +1,11 @@
 Быстрый старт
 =
 - [Гит в картинках](https://rsdn.ru/article/tools/Git.xml) - хороший обзор гит на примере Git Extensions с нуля
+- [Git Extensions online manual](https://git-extensions-documentation.readthedocs.org/en/latest/?) - инструкции в картинках по работе в Git Extensions
+
+Объемные мануалы
+=
+- [Git Book Online](http://git-scm.com/book/) - главная книга по гит
 
 Информация по конкретным темам
 =
@@ -8,11 +13,6 @@
 - [Тонкости благополучного git-merge](http://habrahabr.ru/post/195674/) - разбор команды merge
 - [pruning stale remote-tracking branches](http://kparal.wordpress.com/2011/04/15/git-tip-of-the-day-pruning-stale-remote-tracking-branches) - удаление (delete) информации об удаленных (deleted) удаленных (remote) ветках
 - [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/) - релиз-менеджмент с помощью git. Как работать с ветками на реальных проектах
-
-Объемные мануалы
-=
-- [Git Book Online](http://git-scm.com/book/) - главная книга по гит
-- [Git Extensions online manual](https://git-extensions-documentation.readthedocs.org/en/latest/?) - инструкции в картинках по работе в Git Extensions
 
 Полезные ссылки
 =
@@ -23,7 +23,6 @@ Microsoft и интеграция с TFS
 - [Git-TF](https://gittf.codeplex.com/) - официальный тул от Microsoft. Командная строка. Требует Java
 - [git-tfs](https://github.com/git-tfs/git-tfs) - более провинутая тулза. Очень быстрая. Написана на C#. Использует объектную модель tfs. Поддерживает работу с ветками TFS
 - [Use Visual Studio with Git](http://msdn.microsoft.com/en-us/library/hh850437.aspx) - как работать с git в VisualStudio 2013
-
 
 Tools
 =
