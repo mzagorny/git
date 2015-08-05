@@ -1,5 +1,6 @@
 Быстрый старт
 =
+- [Инструкция по установке Git Extensions](https://docs.google.com/document/d/1kfxN6RN-dq85IpAXozQ4KsZkFMOuehaEATGXpaaJEPo/pub) - как установить и настроить Git Extensions
 - [Гит в картинках](https://rsdn.ru/article/tools/Git.xml) - хороший обзор гит на примере Git Extensions с нуля
 - [Git Extensions online manual](https://git-extensions-documentation.readthedocs.org/en/latest/?) - инструкции в картинках по работе в Git Extensions
 
